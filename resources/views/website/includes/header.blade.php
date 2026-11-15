@@ -21,7 +21,7 @@
     <div class="container">
         <a href="{{ route('home') }}" class="fo-brand" aria-label="Felna Online home">
             <img src="{{ asset('website-assets/img/logo.png') }}" alt="Felna Online logo">
-            <span class="fo-brand-name">Felna <span>Online</span><small>Internet Service Provider</small></span>
+            <span class="fo-brand-name"><span class="fo-f">Felna</span> <span>Online</span><small>Internet Service Provider</small></span>
         </a>
 
         <div class="d-flex align-items-center fo-gap d-lg-none">

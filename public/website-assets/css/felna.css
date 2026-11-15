@@ -156,6 +156,8 @@ img { max-width: 100%; }
 .fo-brand img { width: 40px; height: 40px; object-fit: contain; }
 .fo-brand-name { font-size: 1.3rem; font-weight: 800; letter-spacing: -.03em; color: var(--fo-ink); line-height: 1; }
 .fo-brand-name span { color: var(--fo-green); }
+.fo-brand-name span.fo-f,
+.fo-footer-brand strong span.fo-f { color: var(--fo-red); }
 .fo-brand-name small { display: block; font-size: .62rem; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; color: var(--fo-muted); margin-top: 4px; }
 
 .fo-nav .navbar-nav { gap: 2px; }

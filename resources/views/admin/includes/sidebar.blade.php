@@ -3,7 +3,7 @@
         <a href="{{ route('admin.dashboard') }}">
             <span class="fa-logo-tile"><img src="{{ asset('website-assets/img/logo.png') }}" alt="Felna Online logo"></span>
             <span>
-                <strong>Felna <span>Online</span></strong>
+                <strong><span class="fa-f">Felna</span> <span>Online</span></strong>
                 <small>Admin panel</small>
             </span>
         </a>

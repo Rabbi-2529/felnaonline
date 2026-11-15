@@ -21,7 +21,7 @@
             <a href="{{ route('home') }}" class="d-inline-flex align-items-center gap-2 text-white" style="position:relative;z-index:1">
                 <span class="fa-logo-tile"><img src="{{ asset('website-assets/img/logo.png') }}" alt="Felna Online logo"></span>
                 <span>
-                    <strong class="d-block" style="font-size:1.15rem;font-weight:800;letter-spacing:-.02em">Felna <span style="color:#00a651">Online</span></strong>
+                    <strong class="d-block" style="font-size:1.15rem;font-weight:800;letter-spacing:-.02em"><span style="color:#ed1c24">Felna</span> <span style="color:#00a651">Online</span></strong>
                     <small class="d-block" style="font-size:.68rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:rgba(255,255,255,.55)">Internet Service Provider</small>
                 </span>
             </a>

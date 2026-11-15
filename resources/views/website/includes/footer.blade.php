@@ -27,7 +27,7 @@
                 <div class="col-lg-4">
                     <a href="{{ route('home') }}" class="fo-footer-brand">
                         <span class="fo-logo-tile"><img src="{{ asset('website-assets/img/logo.png') }}" alt="Felna Online logo"></span>
-                        <strong>Felna <span>Online</span></strong>
+                        <strong><span class="fo-f">Felna</span> <span>Online</span></strong>
                     </a>
                     <ul class="fo-footer-contact">
                         <li><i class="fa-solid fa-location-dot"></i><span>House # 33 (4th Floor), Road # 4, Dhanmondi, Dhaka-1205</span></li>
